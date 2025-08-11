@@ -54,10 +54,5 @@
 ### 📬 Связь со мной
 <p align="center">
   <a href="https://discord.com/users/your_id"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<!-- Футер с маленьким гифом -->
-<p align="center">
-  <img src="https://media.tenor.com/5nSk4CbG6xgAAAAC/hacker.gif" width="120">
+  <a href="mailto:serxioserxio99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
