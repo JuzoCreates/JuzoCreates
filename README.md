@@ -20,7 +20,7 @@
 
 ### 🔥 Мой вайб в картинках
 <p align="center">
-  <img src="images/juzo.gif" width="300">
+  <img src="https://github.com/JuzoCreates/JuzoCreates/blob/main/JuzoCreates/images/juzo.gif" width="300">
   <img src="https://github.com/JuzoCreates/JuzoCreates/blob/main/JuzoCreates/images/juzo%20cat.gif" width="300">
 </p>
 
